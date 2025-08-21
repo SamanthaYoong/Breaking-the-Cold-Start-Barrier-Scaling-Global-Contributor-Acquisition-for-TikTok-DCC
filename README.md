@@ -1,4 +1,4 @@
-# 📊 Case Study: Breaking the Cold-Start Barrier  
+# 💡 Case Study: Breaking the Cold-Start Barrier  
 ### Scaling Global Contributor Acquisition for TikTok DCC
 
 **Role:** User Segment Analyst – Data Acquisition  
